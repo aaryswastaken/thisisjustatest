@@ -1,0 +1,22 @@
+{
+  "name": "thisisagittest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vsahler/thisisagittest.git"
+  },
+  "author": "Vincent Sahler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vsahler/thisisagittest/issues"
+  },
+  "homepage": "https://github.com/vsahler/thisisagittest#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
